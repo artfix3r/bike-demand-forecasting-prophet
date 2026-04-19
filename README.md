@@ -93,7 +93,7 @@ this dataset.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/bike-demand-forecasting-prophet.git
+git clone https://github.com/artfix3r/bike-demand-forecasting-prophet.git
 cd bike-demand-forecasting-prophet
 
 # Install dependencies
